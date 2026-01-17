@@ -8,4 +8,10 @@ public class ABC {
     void b(){
         System.out.println("hello B");
     }
+
+    void c(){
+        System.out.println("fhsdh");
+    }
+
+
 }
