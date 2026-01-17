@@ -5,4 +5,7 @@ public class Task {
         System.out.println("abc");
     }
 
+    void newMethod(){
+        System.out.println("new ");
+    }
 }
